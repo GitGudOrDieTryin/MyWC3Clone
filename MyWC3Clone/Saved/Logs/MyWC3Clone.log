@@ -771,3 +771,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.28-19.15.59:111][204]AssetCheck: New page: Asset Save: multiple assets
 [2020.06.28-19.15.59:112][204]LogContentValidation: Display: Validating World /Game/Maps/TestLevel.TestLevel
 [2020.06.28-19.15.59:112][204]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/TestLevel_BuiltData.TestLevel_BuiltData
+[2020.06.28-19.17.48:229][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestLevel" FILE="../../../../../Documents/UE4/MyWC3Clone/MyWC3Clone/Content/Maps/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.06.28-19.17.48:353][660]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.06.28-19.17.48:364][660]LogSavePackage: Moving '../../../../../Documents/UE4/MyWC3Clone/MyWC3Clone/Saved/TestLevelF6F1FFD644FAC274D19A5FAC6D751E8F.tmp' to '../../../../../Documents/UE4/MyWC3Clone/MyWC3Clone/Content/Maps/TestLevel.umap'
+[2020.06.28-19.17.48:371][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestLevel_BuiltData" FILE="../../../../../Documents/UE4/MyWC3Clone/MyWC3Clone/Content/Maps/TestLevel_BuiltData.uasset" SILENT=true
+[2020.06.28-19.17.48:377][660]LogSavePackage: Moving '../../../../../Documents/UE4/MyWC3Clone/MyWC3Clone/Saved/TestLevel_BuiltDataF2F834FB40AAB1A4743FF1B16713A1D3.tmp' to '../../../../../Documents/UE4/MyWC3Clone/MyWC3Clone/Content/Maps/TestLevel_BuiltData.uasset'
+[2020.06.28-19.17.48:391][660]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.28-19.17.48:391][660]LogContentValidation: Display: Validating World /Game/Maps/TestLevel.TestLevel
+[2020.06.28-19.17.48:391][660]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/TestLevel_BuiltData.TestLevel_BuiltData
